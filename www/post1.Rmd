@@ -1,5 +1,18 @@
 ---
-title: "My first story"
+title: "Data and Activism"
 ---
 
-It was a dark and stormy night...
+The Introductory chapter of [*Data Feminism*](https://data-feminism.mitpress.mit.edu/pub/frfa9szd/release/4) gives multiple examples of how data are used to either maintain or fight oppression in the US. 
+
+The proliferation of data collection and recording in the form of surveillance by the government has added an extra layer of scrutiny and policing in marginalized groups. As mentioned by Catherine and Lauren, biometrics technology is deployed disproportionately to inspect black and brown communities. They further stigmatize identities of Muslims, non-binary and gender-nonconforming citizens. Data like traffic movements and facial expressions often lead to over-policing of communities of color. For instance, the decision of the City of Los Angeles to determine whether the neighborhood should be patroled heavily or not came from historical crime data that was flawed in itself. Considering the over-policing in these communities, crime rates could be contaminated by the intense control mechanisms applied by the state. In other words, is it true that crimes are more prominent in these spaces or rather that more crimes are being documented because of the police’s scrutiny of these areas? 
+
+Reading about the exponential growth of data collection also got me thinking about the spread of data. While the excessive use of data in surveillance continues to maintain the power dynamics, so does the lack thereof in various other sectors like healthcare. According to an FDA report in 2017, even though people over the age of 65 are a key demographic for most medications and have a higher mortality burden, they only accounted for 21 percent. Similarly, participants in clinical trials hardly reflect the demographic distribution of the population[*1*](https://hopkinsbio.org/academic/diversity-in-clinical-trials/). 
+
+On the contrary, data can be a tool for activism and shifting conversation. One of the examples in *Data Feminism* is the use of employment records by Christine Darden to identify and show her boss that women are systematically paid less than men and are socially structured to jobs that have a lesser potential for promotions within an organization. Similarly, in today’s context, there are scientists that understand the intersectionality of social identities and how they affect their data collection and analysis. 
+
+I am hopeful that the authors have chosen to include works from female data scientists from other intersectional identities as well. I appreciate that they acknowledge their privilege and potential blind spots. However, acknowledgment solely does not shield from repeating the mistakes of previous feminist writers who fail to account for the experiences of non-white and non-heteronormative identities. 
+
+**Reference:**
+
+1. Haque W, Ahmadzada M. November 20, 2020. Lack of Diversity in Clinical Trials: The Problem and Potential Solutions. Accesible at: https://hopkinsbio.org/academic/diversity-in-clinical-trials/. Accessed on February 21, 2021
+
