@@ -1,5 +1,12 @@
 ---
-title: "My second story"
+title: "By Whom and For Whom"
+output: html_document
 ---
 
-It was the best of times, it was the worst of times...
+
+The first chapter of *Data Feminism*, The Power Chapter, delves into the phenomenon of *privilege hazard* - the incapability of people in the position of power and privilege to recognize the instances of oppression. Even though products and services have a more diverse audience in the States and globally, the people in the server room and on the decision-making tables to date comprise a mostly homogeneous group. [According to the US Bureau of Labor Statistics data in 2018](https://beta.bls.gov/dataViewer/view/timeseries/LNU02070002Q;jsessionid=EB1A6129586110A5D731ABC582B55818), only 26 percent of the labor force in "computer and mathematical occupations” are women and among them, only 12 percent are Black or Latinx. These statistics do not reflect the demographics of the US population. 
+
+As mentioned in the chapter, a homogeneous workforce have more blind spots, leading to the lack of intentional efforts to check for their implicit or sampling biases. As a result, the onus often falls on the people at the other end of the spectrum of *privilege hazard* to educate, constantly "represent" and point out the blind spots. Coming from my personal experience of having the pressure of “representing” my national and cultural identity constantly, I find it very tiring and draining at times. Even though I have not had much industrial experience in the business and technology sectors, I can imagine the pressure of a person with a or multiple marginalized identities to carry the extra responsibility to educate others while also doing their core job as a data scientist/software engineer/any other tech professional. So, It is essential to train ALL data scientists on forms of oppression and how they could affect their approach to the task/problem at hand. It is as important, if not more, to involve other professionals in relevant sectors during the data collection, data handling, and analysis processes to have a more holistic approach to working with the data. The effects of blind spots and power imbalance in the workforce trickle down to an imbalance in the result; who is benefiting from this imbalance, who is being overlooked/over-surveilled? 
+
+The excerpt about the *library of missing datasets* shows us the inexistence of data of underserved populations sweeps the problems under the carpet, making it harder to address the issues. This is made me think about the implications of missing data on child labor and daily wage workers, the role that social structures and governmental priorities play in hindering the collection of accurate data. 
+
