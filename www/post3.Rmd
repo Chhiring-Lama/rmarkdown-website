@@ -1,0 +1,8 @@
+---
+title: "Collect, Analyze, Imagine and Teach"
+output: html_document
+---
+
+The second chapter “Collect, Analyze, Imagine and Teach” provided a guide to shifting the conversation within data science towards involving the understanding of social inequalities and dynamics in data collection and analysis and teaching environment. Two concepts that stuck out to me in the chapter were that of *imagined objectivity* and *deficit narrative*. They go hand in hand with each other in upholding false beliefs. A person in power is imagined to have an objective or a truer understanding of any matter. On the other hand, a marginalized group’s accomplishments, and agencies are overshadowed only by their “problems”. Oftentimes, people readily accept anecdotal evidence from those in power/privilege. These are the concepts that I have observed or experienced personally but never managed to comprehend what they were. To point out a very simple regular example, during group discussions in my school and high-school, I realized that teachers and even group members more readily accept the same idea when it came from a male member than from a female member. 
+
+The concept leads to the supposed objectivity of data and technology which we know, from our personal experience and previous readings, is not necessarily true. The description of terms and ideas upholding power and those challenging power allowed me to introspect about my understanding of those words and ideas. It is a reminder for me as a data scientist to look beyond the technicality and algorithm in the system to understanding how the history, social structure affected the dataset and the models. 
