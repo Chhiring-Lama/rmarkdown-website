@@ -18,6 +18,8 @@ navbar:
           href: post2.html
         - text: "Post 3"
           href: post3.html
+        - text: "Post 4"
+          href: post4.html
   right:
     - icon: fa-envelope 
       href: mailto:bbaumer@smith.edu
